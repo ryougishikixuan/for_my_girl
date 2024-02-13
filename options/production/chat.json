@@ -1,5 +1,5 @@
 
-  "chat": [
+ [
     {
       "msgs": ["初初，情人节快乐！"],
       "msgInputSpeed": 80
@@ -100,4 +100,3 @@
       "msgInputSpeed": 120
     }
   ]
-}
